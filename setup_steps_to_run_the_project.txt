@@ -1,0 +1,16 @@
+for the existing project create a script including the conda and necessary requirments with pyreqs in place.
+make a voice for the given and work on it.
+
+
+
+Steps:
+1) First install pyreqs 
+2) create a requirments or create a back up of conda env
+3) create a script that runs at least one job or  one end points. 
+4) create an MarkDown file to display what it exactly does. 
+
+
+Additional Step: 
+create some empyt rooms. 
+
+the  create a conda with requirments
